@@ -1,0 +1,61 @@
+PCBNEW-BOARD Version 1 date dim 23 mai 2010 20:16:30 CEST
+
+$GENERAL
+LayerCount 2
+Ly 1FFF8001
+Links 0
+NoConn 0
+Di 0 0 117000 82670
+Ndraw 0
+Ntrack 0
+Nzone 0
+Nmodule 0
+Nnets 0
+$EndGENERAL
+
+$SHEETDESCR
+Sheet A4 11700 8267
+Title "The GeeXboX Board"
+Date "23 may 2010"
+Rev "0.1"
+Comp "GeeXboX"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndSHEETDESCR
+
+$SETUP
+InternalUnit 0.000100 INCH
+ZoneGridSize 250
+Layers 2
+Layer[0] Cuivre signal
+Layer[15] Composant signal
+TrackWidth 170
+TrackWidthHistory 170
+TrackClearence 60
+ZoneClearence 200
+DrawSegmWidth 150
+EdgeSegmWidth 150
+ViaSize 450
+ViaDrill 250
+ViaAltDrill 250
+ViaSizeHistory 450
+MicroViaSize 200
+MicroViaDrill 80
+MicroViasAllowed 0
+TextPcbWidth 120
+TextPcbSize 600 800
+EdgeModWidth 79
+TextModSize 600 600
+TextModWidth 120
+PadSize 122 122
+PadDrill 0
+AuxiliaryAxisOrg 0 0
+$EndSETUP
+
+$TRACK
+$EndTRACK
+$ZONE
+$EndZONE
+$EndBOARD
